@@ -20,6 +20,8 @@
     
     
     NSLog(@"Git commit");
+    
+    NSLog(@"On iOS Branch");
 }
 
 - (void)didReceiveMemoryWarning {
